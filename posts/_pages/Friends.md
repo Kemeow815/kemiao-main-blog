@@ -71,10 +71,10 @@ showThumbnail: false # Whether you want to show 'in page' thumbnail.
 
 ```json
 {
-  "title": "ZLA小站",
-  "link": "https://www.zla.pub/",
-  "img": "https://cdn.v2ex.com/gravatar/cba8b28739dd6225f6fe961762bdb0b71b858d68c83d946a37cee3b0e0daece5?size=512",
-  "des": "不要哭，不要笑，不要恨，要理解。"
+  "title": "克喵の小栈",
+  "link": "https://blog.kemiao.online/",
+  "img": "https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202503171226033.png",
+  "des": "每一段旅行都有终点~"
 }
 ```
 

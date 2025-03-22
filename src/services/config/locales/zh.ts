@@ -23,6 +23,16 @@ const zh: Translation = {
     description: ' 的友情链接页，在这里你可以看到所有的友情链接。',
     avatar: '头像',
   },
+  shuoshuo: {
+    title: '说说',
+    description: ' 的说说页，在这里你可以看到所有的说说。',
+    url: 'https://shuoshuo.kemiao.online/',
+  },
+  music: {
+    title: '音乐',
+    description: ' 的音乐页，在这里你可以听到所有的音乐。',
+    url: 'https://music.kemiao.online/',
+  },
   about: {
     title: '关于',
     description: ' 的关于页，这里是关于站长一些信息。查看站长的个人故事。',

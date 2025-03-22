@@ -18,6 +18,16 @@ const en: Translation = {
     submit: 'Search',
     noResultsFound: 'No Posts Matched',
   },
+  shuoshuo: {
+    title: 'Shuoshuo',
+    description: '\'s shuoshuo page, where you can see all the shuoshuos.',
+    url: 'https://shuoshuo.kemiao.online/',
+  },
+  music: {
+    title: 'Music',
+    description: ' 的音乐页，在这里你可以听到所有的音乐。',
+    url: 'https://music.kemiao.online/',
+  },
   friends: {
     title: 'Friends',
     description: '\'s friends page, where you can see all the friends.',
@@ -25,8 +35,7 @@ const en: Translation = {
   },
   about: {
     title: 'About',
-    description:
-      '\'s about page, where you can see some information about the webmaster. Check out the webmaster\'s personal story.',
+    description: '\'s about page, where you can see some information about the webmaster. Check out the webmaster\'s personal story.',
   },
   anime: {
     title: 'Anime List',

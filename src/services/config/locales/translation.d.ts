@@ -1,4 +1,6 @@
 interface Translation {
+  music: any
+  shuoshuo: any
   home: {
     title: string
   }
